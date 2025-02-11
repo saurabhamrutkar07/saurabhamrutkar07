@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurabhamrutkar07
-- 👀 I’m interested in Front End Developement
-- 🌱 I’m currently learning Python, JS, React.JS, Node.JS 
+- 👀 I’m interested in Full Stack Developement
+- 🌱 I’m currently learning Python, JS, React.JS, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email Id -: saurabhamrutkar83@gmail.com
 
